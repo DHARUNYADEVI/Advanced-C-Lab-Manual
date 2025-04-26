@@ -46,6 +46,7 @@ Output:
 ![Screenshot 2025-04-25 111606](https://github.com/user-attachments/assets/8f9fae51-6177-4c90-971f-dd0d81c24f31)
 
 Result:
+
 Thus, the program  that create a function to find the greatest number is verified successfully.
 
 
@@ -238,6 +239,8 @@ int main()
 Output:
 
 ![Screenshot 2025-04-25 112110](https://github.com/user-attachments/assets/1b52242b-5108-45a0-83c3-cf76323b7b7c)
+
 Result:
+
 Thus, the program that counts the number of words in a given sentence is verified 
 successfully.
