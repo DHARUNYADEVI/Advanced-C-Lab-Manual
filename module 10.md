@@ -190,6 +190,7 @@ temp->next=n;
 ```
 
 Output:
+
 ![Screenshot 2025-04-25 110935](https://github.com/user-attachments/assets/921b352c-1ba7-4946-9fcf-797b26d1853c)
 
 
