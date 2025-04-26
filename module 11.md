@@ -156,6 +156,7 @@ printf("%d",nobookarr[ppshelno]);
 }
 ```
 Output:
+
 ![Screenshot 2025-04-25 111910](https://github.com/user-attachments/assets/7f4418bb-627a-4160-ab8c-48d76e49844a)
 
 
@@ -196,6 +197,7 @@ printf("%d",sum);
 }
 ```
 Output:
+
 ![Screenshot 2025-04-25 112012](https://github.com/user-attachments/assets/420ac56e-8143-4a74-bc75-da6c4dd28a1d)
 
 Result:
@@ -234,6 +236,7 @@ int main()
 }
 ```
 Output:
+
 ![Screenshot 2025-04-25 112110](https://github.com/user-attachments/assets/1b52242b-5108-45a0-83c3-cf76323b7b7c)
 Result:
 Thus, the program that counts the number of words in a given sentence is verified 
